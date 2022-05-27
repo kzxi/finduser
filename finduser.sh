@@ -22,7 +22,7 @@ printf "\n"
 
 partial() {
 
-if [[ -e $username.txt ]]; then
+if [[ -e $.nf.nf.txt ]]; then
 printf "\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Saved:\e[0m\e[1;77m %s.txt\n" $username
 fi
 
